@@ -1,0 +1,87 @@
+@CHARSET "UTF-8";
+h1{
+	color:orange;
+	font-size: 2em;
+}
+
+li{
+	list-style-type:square;
+}
+
+a:hover{
+	    color: hotpink;
+	    text-decoration:none;
+	
+}
+
+p.capitalize {
+    text-transform: capitalize;
+}
+
+#patriot{
+	background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/New_England_Patriots_logo.svg/250px-New_England_Patriots_logo.svg.png");
+	background-repeat: no-repeat;
+}
+
+#bronco{
+	background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Denver_Broncos_logo.svg/344px-Denver_Broncos_logo.svg.png");
+	background-repeat: no-repeat;
+}
+
+#justify{
+	text-align: justify;
+}
+
+blockquote{
+	background-color: maroon;
+	color: lime;
+}
+
+table{
+    border-width: 1px;
+}
+
+td, th{
+    border-width: 1px;
+}
+
+#solum{
+    background-color: yellow;
+}
+
+#vindi{
+    background-color: red;
+}
+
+.ort{
+    background-color: inherit;
+}
+
+.random{
+    background-color: gray;
+}
+
+#span1{
+    font-family: cursive;
+    color: orange;
+}
+
+#mousedive{
+    text-align: right;
+    
+}
+
+.class4{
+    border-width: 1px;
+    border-style: solid;
+    padding: 10px;
+    margin: 5%;
+    
+} 
+
+#wrapper{
+    background-color: yellow;
+}
+    /*padding distance between content and border*/
+/*margin distance between border and parent container padding-top, padding-bottom, margin-bottom etc*/
+

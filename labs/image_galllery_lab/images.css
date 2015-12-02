@@ -1,0 +1,23 @@
+#wrapper{
+    background-color: beige;
+    border-width: 2px;
+    border-style: solid;
+    padding: 10px;
+    margin: 5%;
+}
+
+.thumbs{
+    width: 150px !important;
+    height: 150px !important;
+}
+
+h1{
+    text-align: center;
+    color: red;
+}
+/*#yamaha{
+    border-width: 2px;
+    border-style: solid;
+    padding: 10px;
+    margin: 5%;*/
+}
